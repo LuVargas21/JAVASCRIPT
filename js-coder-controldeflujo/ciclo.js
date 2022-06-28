@@ -1,5 +1,5 @@
 // CICLO FOR 
-
+// Funcion que asigna turnos a cada numero de documento ingresado, con un maximo de 15 turnos en cada ejecución
 
 function asignarTurnos() {
 
