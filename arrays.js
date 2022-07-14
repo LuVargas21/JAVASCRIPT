@@ -1,4 +1,4 @@
-// DE OBJETOS DENTRO DE UN ARRAY
+//  CREACIÓN DE OBJETOS DENTRO DE UN ARRAY
 const destinos = [
 	{
 		id: 1,
@@ -42,10 +42,6 @@ const destinos = [
 
 console.log(destinos);
 
-
-
-
-
 //EL USUARIO INGRESA UNA OPCION DE DESTINO
 // FUNCIÓN QUE PERMITE CALCULAR EL PRECIO POR NOCHE
 
@@ -78,8 +74,6 @@ function calcularPrecioPorNoche(destino) {
 		case "Córdoba":
 			valorPorNoche = 4000;
 			break;
-		case "Ushuaia":
-			5500;
 		default:
 			valorPorNoche = 0;
 			break;
