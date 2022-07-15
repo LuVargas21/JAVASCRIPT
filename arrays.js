@@ -90,3 +90,5 @@ function calcularPrecioEstadia(destino, cantidadNoches) {
 	let precioDeEstadia = cantidadNoches * calcularPrecioPorNoche(destino);
 	return precioDeEstadia;
 }
+
+
