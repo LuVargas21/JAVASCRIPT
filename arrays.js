@@ -92,3 +92,10 @@ function calcularPrecioEstadia(destino, cantidadNoches) {
 }
 
 
+// DOM 
+
+let titulo =  document.getElementsByClassName ("card-title")
+console.log (card-title.innerText)
+
+titulo.innerText = "DESTINOS NACIONALES"
+console.log( titulo.innerText); 
